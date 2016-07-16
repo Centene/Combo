@@ -19,7 +19,7 @@ namespace DesdeGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text="Hola mundo";
+            textBox1.Text="Hola";
         }
     }
 }
